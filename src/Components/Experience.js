@@ -54,7 +54,7 @@ export default class Experience extends Component {
                 </div>
             </div>
         </div>
-        <hr/>    
+        <hr/>     
     </div>
     )
   }
