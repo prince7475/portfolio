@@ -3,6 +3,7 @@ import Nav from './Nav'
 import Slides from './Slides'
 import About from './About'
 import Experience from './Experience'
+import Education from './Education'
 export default class Main extends Component {
   render() {
     return (
@@ -11,6 +12,7 @@ export default class Main extends Component {
         <Slides/>
         <About />
         <Experience/>
+        <Education />
       </div>
     )
   }
