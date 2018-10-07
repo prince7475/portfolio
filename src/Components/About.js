@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
-
+import Slides from './Slides'
 export default class About extends Component {
   render() {
     return (
       <div>
+        <Slides/>
           <div className="container">
         <h1>Prince <span className='blue-text text-darken-2'>Donkor</span></h1>
         <h5>(508-799-2670) <span className='blue-text text-darken-2'> Prince.Donkor74@Gmail.com</span> </h5>
