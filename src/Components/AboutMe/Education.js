@@ -3,8 +3,9 @@ import React, { Component } from 'react'
 export default class Education extends Component {
   render() {
     return (
-      <div>
-        This is the education page
+      <div className="container">
+        <h2>Education</h2>
+        
       </div>
     )
   }
